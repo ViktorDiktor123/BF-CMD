@@ -2,4 +2,4 @@
 ---
 # commands
 1) basic command - echo
-2) c - quit
+2) '~': quit
